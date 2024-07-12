@@ -6,7 +6,7 @@ Welcome to my CV repository. This repository contains the HTML and CSS files for
 
 You can view my CV online at the following link:
 
-[https://kk1805.github.io/Kiruthika-CV/]
+[https://github.com/Kk1805/Kiruthika-CV]
 
 ## Repository Contents
 
